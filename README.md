@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seema Mehta</h1>
-<h3 align="center">A passionate Fullstack Developer Student from India</h3>
+<h3 align="center">"A React Front-End Developer crafting responsive, modern web experiences."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seema-97&label=Profile%20views&color=0e75b6&style=flat"
         alt="seema-97" /> </p>
