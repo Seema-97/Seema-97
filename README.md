@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seema-97&label=Profile%20views&color=0e75b6&style=flat"
         alt="seema-97" /> </p>
 
-- 🔭 I’m currently working on **Web Development projects.**
+- 🔭 I’m currently working in **BitBeast Private Limited**
 
-- 🌱 I’m currently learning **React.js, Next.js, Node.js & many more**
+- 🌱 I’m currently learning **Next.js, Node.js & many more**
 
 - 💬 Ask me about **react, next, node**
 
